@@ -15,8 +15,10 @@ public class SesliHarfler {
 			default:
 				System.out.println(harf + " bir sesli harf degildir");
 				break;
-			
+		
 		}
+		String harf1 = "İ";
+		System.out.println(harf1.toLowerCase());
 
 	}
 
